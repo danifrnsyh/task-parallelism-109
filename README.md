@@ -11,4 +11,4 @@ Program menjalankan 3 tugas berbeda secara paralel:
 Menggunakan threading sehingga ketiga proses berjalan bersamaan.
 
 ## Cara Menjalankan
-python main.py
+python pararel.py
